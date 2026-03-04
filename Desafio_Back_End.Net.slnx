@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Desafio_Back_End.Net/Desafio_Back_End.Net.csproj" />
+  <Project Path="MottuDesafio.Application/MottuDesafio.Application.csproj" Id="0b6af4dd-d8a4-4d87-bef3-242703a819da" />
+  <Project Path="MottuDesafio.Domain/MottuDesafio.Domain.csproj" Id="ab3577c9-4c26-4e5e-9470-acdf9e54a6c9" />
+  <Project Path="MottuDesafio.Infra/MottuDesafio.InfraData.csproj" Id="f7e7e716-7325-4db0-a535-e9382f695721" />
+  <Project Path="MottuDesafio.InfraIoc/MottuDesafio.InfraIoc.csproj" Id="04716392-51f5-4197-bf7e-cc3133191963" />
+  <Project Path="MottusTeste/MottusTeste.csproj" Id="90ff142c-7737-4731-b97f-2019576b5a8e" />
+</Solution>

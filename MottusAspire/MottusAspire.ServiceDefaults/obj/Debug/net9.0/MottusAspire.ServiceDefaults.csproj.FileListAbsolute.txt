@@ -1,0 +1,13 @@
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\bin\Debug\net9.0\MottusAspire.ServiceDefaults.deps.json
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\bin\Debug\net9.0\MottusAspire.ServiceDefaults.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\bin\Debug\net9.0\MottusAspire.ServiceDefaults.pdb
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.AssemblyInfo.cs
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.sourcelink.json
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\refint\MottusAspire.ServiceDefaults.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\MottusAspire.ServiceDefaults.pdb
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottusAspire\MottusAspire.ServiceDefaults\obj\Debug\net9.0\ref\MottusAspire.ServiceDefaults.dll

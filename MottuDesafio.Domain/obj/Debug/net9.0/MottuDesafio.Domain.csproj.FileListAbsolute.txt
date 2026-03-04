@@ -1,0 +1,12 @@
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\bin\Debug\net9.0\MottuDesafio.Domain.deps.json
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\bin\Debug\net9.0\MottuDesafio.Domain.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\bin\Debug\net9.0\MottuDesafio.Domain.pdb
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.AssemblyInfoInputs.cache
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.AssemblyInfo.cs
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.sourcelink.json
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\refint\MottuDesafio.Domain.dll
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\MottuDesafio.Domain.pdb
+C:\Users\welin\Desafio-BackEnd\Desafio_Back_End.Net\MottuDesafio.Domain\obj\Debug\net9.0\ref\MottuDesafio.Domain.dll

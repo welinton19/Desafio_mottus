@@ -1,0 +1,6 @@
+@Desafio_Back_End.Net_HostAddress = http://localhost:5153
+
+GET {{Desafio_Back_End.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

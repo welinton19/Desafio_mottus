@@ -1,0 +1,293 @@
+[
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.DeliveryMenController",
+    "Method": "GetDeliveryMen",
+    "RelativePath": "api/DeliveryMen/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.DeliveryMenController",
+    "Method": "UpdateDeliveryMen",
+    "RelativePath": "api/DeliveryMen/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDeliveryMenDTO",
+        "Type": "MottuDesafio.Application.DTOs.UpdateDeliveryMenDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.DeliveryMenController",
+    "Method": "DeleteDeliveryMen",
+    "RelativePath": "api/DeliveryMen/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.DeliveryMenController",
+    "Method": "CreateDeliveryMen",
+    "RelativePath": "api/DeliveryMen/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "deliveryMenDto",
+        "Type": "MottuDesafio.Application.DTOs.CreateDeliveryMenDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.DeliveryMenController",
+    "Method": "GetAllDeliveryMen",
+    "RelativePath": "api/DeliveryMen/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.LeaseController",
+    "Method": "GetLeases",
+    "RelativePath": "api/Lease/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.LeaseController",
+    "Method": "UpdateLease",
+    "RelativePath": "api/Lease/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateLeaseDTO",
+        "Type": "MottuDesafio.Application.DTOs.UpdateLeaseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.LeaseController",
+    "Method": "DeleteLease",
+    "RelativePath": "api/Lease/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.LeaseController",
+    "Method": "CreateLease",
+    "RelativePath": "api/Lease/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLeaseDTO",
+        "Type": "MottuDesafio.Application.DTOs.CreateLeaseDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.LeaseController",
+    "Method": "GetAllLeases",
+    "RelativePath": "api/Lease/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.MotorcycleController",
+    "Method": "GetMotorcycle",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.MotorcycleController",
+    "Method": "UpdateMotorcycle",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "motorcycleDto",
+        "Type": "MottuDesafio.Application.DTOs.UpdateMotorcycleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.MotorcycleController",
+    "Method": "DeleteMotorcycle",
+    "RelativePath": "api/Motorcycle/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.MotorcycleController",
+    "Method": "CreateMotorcycle",
+    "RelativePath": "api/Motorcycle/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "motorcycleDto",
+        "Type": "MottuDesafio.Application.DTOs.CreateMotorcycleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.MotorcycleController",
+    "Method": "GetAllMotorcycles",
+    "RelativePath": "api/Motorcycle/list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.TestController",
+    "Method": "Get",
+    "RelativePath": "api/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "Desafio_Back_End.Net.Controllers.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Desafio_Back_End.Net.Controllers.UserController",
+    "Method": "Register",
+    "RelativePath": "api/User/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegisterDto",
+        "Type": "MottuDesafio.Application.DTOs.CreateUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
